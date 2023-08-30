@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bea6be35dda68354ab6f377a43c3c9e, type: 3}
+  m_Name: Level_3
+  m_EditorClassIdentifier: 
+  _arenaBox: {fileID: 1257480515936521357, guid: faab27dea1a7341a0b7efe2c0acc9f6d, type: 3}
+  _arenaDecor: {fileID: 890093339609135838, guid: a4999f36006c34e19b20ce9d2ac62beb, type: 3}

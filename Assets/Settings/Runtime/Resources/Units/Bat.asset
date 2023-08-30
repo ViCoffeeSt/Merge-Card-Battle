@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd9f9493ce1ef5d6b884bae00ef49fbb, type: 3}
+  m_Name: Bat
+  m_EditorClassIdentifier: 
+  _key: Bat
+  _healthParameter:
+    BaseValue: 300
+    GrowthFactor: 1.5
+  _speedParameter:
+    BaseValue: 1
+    GrowthFactor: 1
+  _damageParameter:
+    BaseValue: 155
+    GrowthFactor: 1.5
+  _attackDistanceParameter:
+    BaseValue: 1
+    GrowthFactor: 1
+  _attackCooldownParameter:
+    BaseValue: 0.9
+    GrowthFactor: 0.9
+  _prefabs:
+  - {fileID: 1162074717683033587, guid: c60aa9f7bac665448b358145d95a6db4, type: 3}
+  - {fileID: 6328325485107444708, guid: ad33f663ccb976944b5d6b42a39ac86a, type: 3}
+  - {fileID: 2156180079196364993, guid: 925d3151938a8f94fb61678f556ba81e, type: 3}
+  _faceImage:
+  - {fileID: 21300000, guid: 96003dd4d29c37d47b73dc2c57f1f7d8, type: 3}
+  - {fileID: 21300000, guid: c28ccaa37a89408479c1470f363a6962, type: 3}
+  - {fileID: 21300000, guid: 5a1c30b617fad124fb388d026731aac3, type: 3}

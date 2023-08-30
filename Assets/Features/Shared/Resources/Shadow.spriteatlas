@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shadow
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ac623d5dfd74e502eb7180b923fc564e, type: 3}
+    - {fileID: 2800000, guid: 75a8b2d2ca3656ed39123e2a4397bd4a, type: 3}
+    - {fileID: 2800000, guid: 2004cc8ab7a8e7a7da7d011a22086cb6, type: 3}
+    - {fileID: 2800000, guid: 366e4ae9924ff043488e90afeabd28f7, type: 3}
+    - {fileID: 2800000, guid: e5e4c6a92bb2ef0438e82bbc7c46c5a2, type: 3}
+    - {fileID: 2800000, guid: b37959802ad0fb54891e496f47f9eacf, type: 3}
+    - {fileID: 2800000, guid: a040a3633c9132b4689d75b120cec11d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b37959802ad0fb54891e496f47f9eacf, type: 3}
+  - {fileID: 21300000, guid: 75a8b2d2ca3656ed39123e2a4397bd4a, type: 3}
+  - {fileID: 21300000, guid: a040a3633c9132b4689d75b120cec11d, type: 3}
+  - {fileID: 21300000, guid: e5e4c6a92bb2ef0438e82bbc7c46c5a2, type: 3}
+  - {fileID: 21300000, guid: 366e4ae9924ff043488e90afeabd28f7, type: 3}
+  - {fileID: 21300000, guid: 2004cc8ab7a8e7a7da7d011a22086cb6, type: 3}
+  - {fileID: 21300000, guid: ac623d5dfd74e502eb7180b923fc564e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Shadow_Face_Advanced
+  - Shadow_Advanced
+  - Shadow_Face_Excellent
+  - Shadow_Face_Basic
+  - Shadow_Fill
+  - Shadow_Excellent
+  - Shadow_Basic
+  m_RenderDataMap: {}
+  m_Tag: Shadow
+  m_IsVariant: 0
